@@ -32,6 +32,19 @@ npm run lint
 ```
 See [Configuration Reference](https://cli.vuejs.org/config/).
 ```
+
+### Stack and API
+
+```
+Vue.js
+TypeScript
+Vue-Chart.js (https://vue-chartjs.org)
+API (https://emissions-api.org)
+Bulma.IO (https://bulma.io)
+
+```
+
+
 ### License
 
 ```
@@ -58,13 +71,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-### Stack and API
 
-```
-Vue.js
-TypeScript
-Vue-Chart.js (https://vue-chartjs.org)
-API (https://emissions-api.org)
-Bulma.IO (https://bulma.io)
-
-```
