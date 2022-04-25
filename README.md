@@ -9,10 +9,11 @@
 ```
 
 ##Screen Shots
-```
+
 
 ![image](https://user-images.githubusercontent.com/73316772/165095711-d973232c-c1f0-4edb-8acf-8945874ba447.png)
-```
+
+![print2](https://user-images.githubusercontent.com/73316772/165097670-3cbfd44d-ab17-403c-825a-06fd4731214d.png)
 
 ## Project setup
 ```
