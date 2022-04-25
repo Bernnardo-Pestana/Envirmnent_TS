@@ -1,0 +1,12 @@
+Need to remodel those data to sum and then show in the chart --
+
+Need import vue-chart.js -- Done
+
+Need to make a form with date input. --
+
+Need to import bulma -- Done
+
+Need to Style the page with bulma --
+
+IF possible use an API(Probabily Google) to get the location of the Person and show automatically his data in a 
+chart. --
