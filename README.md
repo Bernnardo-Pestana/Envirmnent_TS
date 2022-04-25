@@ -1,4 +1,16 @@
-# enviromnent_typescript
+# Emission Chart Project
+
+##Description
+  This project was created with the intention of learning how to develop an app in Vue.js with TypeScript
+ using Vue-Chart.js frame-work to generate charts with data from a external public API. Also using 
+ Bulma.IO as SCSS frame-work.
+
+
+##Screen Shots
+
+
+![image](https://user-images.githubusercontent.com/73316772/165095711-d973232c-c1f0-4edb-8acf-8945874ba447.png)
+
 
 ## Project setup
 ```
