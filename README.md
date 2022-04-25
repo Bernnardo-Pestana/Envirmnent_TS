@@ -4,7 +4,7 @@
 
 ```
   This project was created with the intention of learning how to develop an app in Vue.js with TypeScript
- using Vue-Chart.js frame-work to generate charts with data from a external public API. Also using 
+ using Vue-Chart.js frame-work to generate charts with data from a external public API retrived with Axios and using 
  Bulma.IO as SCSS frame-work.
 ```
 
